@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdventOfCode.Days
+namespace AoC2022.Days
 {
     class Day6
     {
